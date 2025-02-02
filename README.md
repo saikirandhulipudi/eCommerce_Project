@@ -63,14 +63,6 @@ K-Means clustering was applied to segment customers based on their **transaction
 5. **Visualization**:  
    - Used **PCA (Principal Component Analysis)** for 2D visualization.  
 
-### **Cluster Analysis:**
-| Cluster | Characteristics |
-|---------|----------------|
-| **1** | High-value, frequent buyers |
-| **2** | Medium-value, occasional buyers |
-| **3** | Budget-conscious, frequent buyers |
-| **4** | Rare buyers with large purchases |
-
 ---
 
 ##  Files in This Repository
