@@ -1,7 +1,7 @@
 # eCommerce_Project
 # EDA, Lookalike Model, and Clustering
 
-## 📌 Project Overview
+##  Project Overview
 This repository contains data-driven analyses and machine learning models to understand customer behavior. The project is divided into three key sections:  
 1. **Exploratory Data Analysis (EDA)** – Analyzing customer transaction data to extract meaningful insights.  
 2. **Lookalike Model** – Identifying similar customers based on behavioral and demographic attributes.  
@@ -47,7 +47,7 @@ The Lookalike Model helps identify customers who share similar behaviors and cha
 
 ---
 
-## 🏷 3. Customer Clustering  
+##  3. Customer Clustering  
 K-Means clustering was applied to segment customers based on their **transactional behavior**.  
 
 ### **Process:**
