@@ -37,7 +37,7 @@ The Lookalike Model helps identify customers who share similar behaviors and cha
 2. **Scaling & Transformation**:  
    - Standardized numerical features to bring them to the same scale.  
 3. **Model Training**:  
-   - Used **K-Means clustering or cosine similarity** to group similar customers.  
+   - Used **cosine similarity** to group similar customers.  
 4. **Evaluation**:  
    - Verified results by comparing clusters with known customer behaviors.  
 
@@ -70,7 +70,6 @@ K-Means clustering was applied to segment customers based on their **transaction
 | **2** | Medium-value, occasional buyers |
 | **3** | Budget-conscious, frequent buyers |
 | **4** | Rare buyers with large purchases |
-| **...** | ... |
 
 ### **Business Implications:**
 - Personalized marketing strategies based on customer segments.  
