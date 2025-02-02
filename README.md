@@ -1,5 +1,5 @@
 # eCommerce_Project
-# Customer Analytics: EDA, Lookalike Model, and Clustering
+# EDA, Lookalike Model, and Clustering
 
 ## 📌 Project Overview
 This repository contains data-driven analyses and machine learning models to understand customer behavior. The project is divided into three key sections:  
@@ -9,7 +9,7 @@ This repository contains data-driven analyses and machine learning models to und
 
 ---
 
-## 📊 1. Exploratory Data Analysis (EDA)
+##  1. Exploratory Data Analysis (EDA)
 EDA involves visualizing and summarizing the dataset to uncover trends, patterns, and outliers.  
 
 ### **Key Steps:**
@@ -28,7 +28,7 @@ EDA involves visualizing and summarizing the dataset to uncover trends, patterns
 
 ---
 
-## 🔍 2. Lookalike Model  
+##  2. Lookalike Model  
 The Lookalike Model helps identify customers who share similar behaviors and characteristics with a target group (e.g., loyal customers or high spenders).  
 
 ### **Approach:**
@@ -79,7 +79,7 @@ K-Means clustering was applied to segment customers based on their **transaction
 
 ---
 
-## 📂 Files in This Repository
+##  Files in This Repository
 - `EDA_analysis.ipynb` – Jupyter Notebook for **Exploratory Data Analysis**.  
 - `Lookalike_Model.ipynb` – Jupyter Notebook implementing **Lookalike Model**.  
 - `Clustering_Analysis.ipynb` – Jupyter Notebook for **Customer Segmentation**.  
@@ -89,7 +89,4 @@ K-Means clustering was applied to segment customers based on their **transaction
 
 ---
 
-## 🚀 How to Use This Repository
-1. Clone the repository:  
-   ```sh
-   git clone https://github.com/your-username/customer-analytics.git
+
