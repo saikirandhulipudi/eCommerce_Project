@@ -71,17 +71,12 @@ K-Means clustering was applied to segment customers based on their **transaction
 | **3** | Budget-conscious, frequent buyers |
 | **4** | Rare buyers with large purchases |
 
-### **Business Implications:**
-- Personalized marketing strategies based on customer segments.  
-- Improved **customer retention** by identifying at-risk segments.  
-- Better **inventory and demand forecasting** based on purchasing patterns.  
-
 ---
 
 ##  Files in This Repository
-- `EDA_analysis.ipynb` – Jupyter Notebook for **Exploratory Data Analysis**.  
-- `Lookalike_Model.ipynb` – Jupyter Notebook implementing **Lookalike Model**.  
-- `Clustering_Analysis.ipynb` – Jupyter Notebook for **Customer Segmentation**.  
+- `EDA_analysis.ipynb` – Jupyter Notebook for Exploratory Data Analysis.  
+- `Lookalike_Model.ipynb` – Jupyter Notebook implementing Lookalike Model.  
+- `Clustering_Analysis.ipynb` – Jupyter Notebook for Customer Segmentation.  
 - `clustering_report.pdf` – Report on the clustering results.  
 - `lookalike_results.csv` – CSV file with Lookalike Model results.  
 - `customer_segmentation_results.csv` – CSV file with clustered customer data.  
