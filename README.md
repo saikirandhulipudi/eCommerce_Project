@@ -66,13 +66,13 @@ K-Means clustering was applied to segment customers based on their **transaction
 ---
 
 ##  Files in This Repository
-- `EDA_analysis.ipynb` – Jupyter Notebook for Exploratory Data Analysis.  
-- `Lookalike_Model.ipynb` – Jupyter Notebook implementing Lookalike Model.  
-- `Clustering_Analysis.ipynb` – Jupyter Notebook for Customer Segmentation.  
-- `clustering_report.pdf` – Report on the clustering results.  
-- `lookalike_results.csv` – CSV file with Lookalike Model results.  
-- `customer_segmentation_results.csv` – CSV file with clustered customer data.  
-
+- `SaiKiran_Dhulipudi_EDA.pdf` – Report on the Exploratory Data Analysis.
+- `SaiKiran_Dhulipudi_EDA.ipynb` – Jupyter Notebook for Exploratory Data Analysis.
+- `SaiKiran_Dhulipudi_Lookalike.csv` – CSV file with Lookalike Model results. 
+- `SaiKiran_Dhulipudi_Lookalike.ipynb` – Jupyter Notebook implementing Lookalike Model.    
+- `SaiKiran_Dhulipudi_Clustering.pdf` – Report on the clustering results.
+- `SaiKiran_Dhulipudi_Clustering.ipynb` – Jupyter Notebook for Customer Segmentation.  
+  
 ---
 
 
